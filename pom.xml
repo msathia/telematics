@@ -4,7 +4,7 @@
 
     <groupId>com.telematics.telematicsService</groupId>
     <artifactId>telematics-dropwiz</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>Telematics Application</name>
 
     <dependencies>
